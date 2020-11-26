@@ -117,7 +117,7 @@
                 </ui:Target>
               </ui:Click.Target>
             </ui:Click>
-            <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="334,61" sap2010:WorkflowViewState.IdRef="WriteLine_1" Text="finished" />
+            <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="334,61" sap2010:WorkflowViewState.IdRef="WriteLine_1" Text="finished test" />
           </Sequence>
         </ActivityAction>
       </ui:OpenBrowser.Body>
